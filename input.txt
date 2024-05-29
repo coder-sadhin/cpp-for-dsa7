@@ -1,7 +1,4 @@
 3
-akkas ali
-2 33
-asik ali
-3 44
-hasib ali
-4 55
+akkas 2 33
+asik 3 44
+hasib 4 55

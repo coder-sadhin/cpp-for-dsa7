@@ -1,3 +1,4 @@
-akkas ali 2 33
-asik ali 3 44
-hasib ali 4 55
+max
+hasib 4 55
+min
+akkas 2 33
