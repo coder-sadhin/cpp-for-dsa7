@@ -1,8 +1,3 @@
-max
-akkas 2 33
-asik 3 44
-hasib 4 55
-min
 hasib 4 55
 asik 3 44
 akkas 2 33
