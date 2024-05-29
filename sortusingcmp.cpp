@@ -11,8 +11,33 @@ class Student
 
 bool cmp(Student a, Student b)
 {
-    if (a.marks>=b.marks) return true;
-    else return false;
+    // if (a.marks>=b.marks) return true;
+    // else return false;
+    // sortcut
+    // return (a.marks>=b.marks);
+    if(a.marks>b.marks){
+        return true;
+    }
+    else if(a.marks<b.marks){
+        return false;
+    }
+    else{
+        if(a.roll>b.roll){
+            return true;
+        }else{
+            return false;
+        }
+    }
+    // sortcut
+    // return (a.roll>b.roll);
+
+    // full conditon sortcut
+    // if(a.marks==b.marks){
+    //     return (a.roll<b.roll);
+    // }else{
+    //    return a.marks>b.marks;
+    // }
+    
 }
 
 int main()
