@@ -1,4 +1,4 @@
 3
-akkas 2 33
 asik 3 44
 hasib 4 55
+akkas 2 33
